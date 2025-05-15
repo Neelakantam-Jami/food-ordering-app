@@ -1,0 +1,31 @@
+{
+  "name": "hungry_food_ordering_app",
+  "version": "1.0.0",
+  "description": "Online food ordering app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neelakantam-Jami/food-ordering-app.git"
+  },
+  "keywords": [],
+  "author": "Neelakantam Naidu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neelakantam-Jami/food-ordering-app/issues"
+  },
+  "homepage": "https://github.com/Neelakantam-Jami/food-ordering-app#readme",
+  "devDependencies": {
+    "parcel": "^2.15.0"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
